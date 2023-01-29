@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946082854529",
+    "project_id": "discountapp-ca98b",
+    "storage_bucket": "discountapp-ca98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946082854529:android:2ce4fa049b846a04babf80",
+        "android_client_info": {
+          "package_name": "com.example.discountapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946082854529-vt0d45h5sobcttd4n0q3mjr1mo8ea0g6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8BGOm1Ntx7us-k2hY4Wyh6HF0OTH4nD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946082854529-vt0d45h5sobcttd4n0q3mjr1mo8ea0g6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
